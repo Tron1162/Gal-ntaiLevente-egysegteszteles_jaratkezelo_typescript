@@ -1,0 +1,1 @@
+# Gal-ntaiLevente-egysegteszteles_jaratkezelo_typescript
